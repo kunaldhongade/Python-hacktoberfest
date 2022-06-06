@@ -1,8 +1,4 @@
-
-
-
 # Write a program which print fibonacci series of number
-
 
 first = 0
 second = 1

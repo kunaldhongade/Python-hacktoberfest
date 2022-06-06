@@ -1,4 +1,5 @@
 # Write a program which accept an integer value n and display all prime numbers till n
+
 n = int(input("Enter number: "))
 
 def isPrime(n):

@@ -1,6 +1,5 @@
+# Write a program which finds sum of digits of a number example n = 125 then output is 8 1+2+5
 
-
-# Write a program which finds sum of digits of a numberexample n = 125 then output is 8 1+2+5
 num = int(input("Enter number\n"))
 sum = 0;
 rem = 0;

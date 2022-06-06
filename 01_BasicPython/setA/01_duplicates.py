@@ -14,6 +14,3 @@ for i in range(0,len(a)):
 
 if(counter==0):
     print("all unique")
-
-
-    

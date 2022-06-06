@@ -1,5 +1,5 @@
-# Write a program that finds distance betn 2 points (x1,y1) and (x2,y2) using the equation 
-# squrt((x2 - x1)^2 + (y2-y1)^2)
+# Write a program that finds distance between 2 points (x1,y1) and (x2,y2) using the equation 
+# sqrt((x2 - x1)^2 + (y2-y1)^2)
 
 from math import sqrt
 #Enter points
@@ -10,4 +10,4 @@ y2 = int(input("Enter y2 : "))
 
 dis = sqrt((((x2-x1)**2) + ((y2-y1)**2)))
 
-print("The distance betn two points is : ",dis)
+print("The distance between two points is : ",dis)
